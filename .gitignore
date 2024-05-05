@@ -1,0 +1,13 @@
+*-backups
+fp-info-cache
+*.kicad_prl
+*.lck
+*.log
+**autosave**
+**auto_save**
+*.step
+*.stp
+Gerbers/
+*.zip
+*.rpt
+*.kicad_dru
